@@ -1,5 +1,6 @@
 # Delta-Sigma ADC&amp;DAC by FPGA
 Cmod A7 driven Delta-sigma ADC & DAC.<br>
+Related book (Japanese) is available from https://ghz-ws.booth.pm/items/5934720
 \scilab: scilab scripts<br>
 \hdl: hdl codes<br>
 \ltspice: LTSpice simulation files<br>
